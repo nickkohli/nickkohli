@@ -1,16 +1,58 @@
-## Hi there 👋
+# Nick Kohli
 
-<!--
-**nickkohli/nickkohli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer | iOS & Web  
+Computer Science Graduate (Royal Holloway, University of London)
 
-Here are some ideas to get you started:
+I build scalable, user-focused applications with an emphasis on clean architecture and behaviour-driven product design.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Featured Project
+
+### UnlockFit  
+A gamified iOS fitness application that links real-world activity to digital rewards.
+
+**Tech Stack**
+- Swift / SwiftUI  
+- Firebase (Authentication, Firestore)  
+- HealthKit  
+- MVVM Architecture  
+
+**Key Focus Areas**
+- Scalable mobile architecture  
+- Cloud data synchronisation  
+- State management and user progression logic  
+- Modular, maintainable SwiftUI components  
+
+---
+
+## 💧 Currently Building
+
+### Litrely  
+An iOS hydration scheduling application that calculates personalised daily water goals and generates structured refill schedules based on bottle size and pacing logic.
+
+Current focus:
+- Local notification scheduling  
+- Goal-based algorithms  
+- Habit formation systems  
+
+---
+
+## 🛠 Technical Skills
+
+**Languages & Frameworks**
+- Swift / SwiftUI  
+- JavaScript  
+- Firebase  
+- REST APIs  
+
+**Engineering Concepts**
+- MVVM Architecture  
+- Scalable application design  
+- State management  
+- Version control (Git)  
+
+---
+
+## 📍 London, UK  
+Open to graduate and early-career software engineering roles.
