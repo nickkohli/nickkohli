@@ -1,16 +1,16 @@
 # Nick Kohli
 
-Software Engineer | iOS & Web  
+Software Engineer | iOS & Web
 Computer Science Graduate (Royal Holloway, University of London)
 
-I build scalable, user-focused applications with an emphasis on clean architecture and behaviour-driven product design.
+I build scalable, user-focused applications with an emphasis on clean architecture, state management, and behaviour-driven product design.
 
 ---
 
 ## 🚀 Featured Project
 
 ### [UnlockFit](https://github.com/nickkohli/UnlockFit-iOS)
-A gamified iOS fitness application that links real-world activity to digital rewards.
+A gamified iOS fitness application that links real-world physical activity to controlled screen time access.
 Latest: v1.0.0 (Public Portfolio Release)
 
 **Tech Stack**
@@ -19,11 +19,11 @@ Latest: v1.0.0 (Public Portfolio Release)
 - HealthKit  
 - MVVM Architecture  
 
-**Key Focus Areas**
-- Scalable mobile architecture  
-- Cloud data synchronisation  
-- State management and user progression logic  
-- Modular, maintainable SwiftUI components  
+**Engineering Focus**
+- Modular, scalable SwiftUI architecture
+- Cloud-synchronised state management
+- Real-time fitness data integration
+- Clean separation of concerns (Views, ViewModels, Services)
 
 ---
 
@@ -32,10 +32,10 @@ Latest: v1.0.0 (Public Portfolio Release)
 ### Litrely  
 An iOS hydration scheduling application that calculates personalised daily water goals and generates structured refill schedules based on bottle size and pacing logic.
 
-Current focus:
-- Local notification scheduling  
-- Goal-based algorithms  
-- Habit formation systems  
+Current Focus
+-	Notification scheduling logic
+-	Goal-based pacing algorithms
+-	Habit formation system design
 
 ---
 
