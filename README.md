@@ -9,8 +9,9 @@ I build scalable, user-focused applications with an emphasis on clean architectu
 
 ## 🚀 Featured Project
 
-### UnlockFit  
+### [UnlockFit](https://github.com/nickkohli/UnlockFit-iOS)
 A gamified iOS fitness application that links real-world activity to digital rewards.
+Latest: v1.0.0 (Public Portfolio Release)
 
 **Tech Stack**
 - Swift / SwiftUI  
