@@ -38,7 +38,7 @@ Current Focus
 -	Habit formation system design
 
 ### Leb Grill Game
-A fast-paced mobile game inspired by real world food service flow, focused on timing, sequencing, and reactive user interaction.
+An iOS based 2D mobile game built with Unity, inspired by real-world kitchen flow, focused on timing, sequencing, and reactive user interaction.
 
 Current Focus
 - Core gameplay loop & interaction design
