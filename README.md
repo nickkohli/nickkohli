@@ -27,7 +27,7 @@ Latest: v1.0.0 (Public Portfolio Release)
 
 ---
 
-## 💧 Currently Building
+## 🛠️ Currently Building
 
 ### Litrely  
 An iOS hydration scheduling application that calculates personalised daily water goals and generates structured refill schedules based on bottle size and pacing logic.
@@ -36,6 +36,14 @@ Current Focus
 -	Notification scheduling logic
 -	Goal-based pacing algorithms
 -	Habit formation system design
+
+### Leb Grill Game
+A fast-paced mobile game inspired by real world food service flow, focused on timing, sequencing, and reactive user interaction.
+
+Current Focus
+- Core gameplay loop & interaction design
+- State management for real-time actions
+- Performance optimisation for smooth gameplay
 
 ---
 
