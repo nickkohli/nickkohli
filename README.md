@@ -27,7 +27,7 @@ Latest: v1.0.0 (Public Portfolio Release)
 
 ---
 
-## 🛠️ Currently Building
+## 🚧 Currently Building
 
 ### Litrely  
 An iOS hydration scheduling application that calculates personalised daily water goals and generates structured refill schedules based on bottle size and pacing logic.
